@@ -1,6 +1,6 @@
-module github.com/haitham911/icap-client
+module github.com/k8-proxy/icap-client
 
-go 1.12
+go 1.15
 
 require (
 	github.com/davecgh/go-spew v1.1.1
